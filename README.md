@@ -1,2 +1,4 @@
 # spring-boot-01-demo
-use: Inversion of Control, Depndency injection
+use: 
+1. Inversion of Control 
+2. Depndency injection
