@@ -1,4 +1,4 @@
-package com.example.springcodedemo;
+package com.example.springcodedemo.common;
 
 public interface Coach {
     String getDailyWorkout();
